@@ -1,0 +1,32 @@
+.slidimg img {
+    padding-bottom: 30px;
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    padding-left: 5px;
+}
+
+.slid_cls {
+    padding-top: 50px;
+}
+
+.slidimg .slick-prev {
+    content: none;
+    width: 50px;
+    height: 64px;
+    margin: -20px;
+    background-image: url(../images/icons/slidebtn1.png);
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+
+.slidimg .slick-next {
+    content: none;
+    width: 50px;
+    height: 63px;
+    margin: -30px;
+    background-image: url(../images/icons/slidebtn2.png);
+    background-position: top;
+    background-repeat: no-repeat;
+}

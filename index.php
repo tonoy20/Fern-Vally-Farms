@@ -1,0 +1,25 @@
+<?php 
+    include("header.php");
+?>
+<body>
+<?php 
+    include("slider.php");
+?>
+<?php 
+    include("bodypage.php");
+?>
+<?php 
+    include("slider2.php");
+?>
+<?php 
+    include("bodyArticle.php");
+?>
+<?php 
+    include("downPart.php");
+?>
+<?php 
+    include("footer.php");
+?>
+
+</body>
+</html>

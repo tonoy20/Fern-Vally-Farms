@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'MYRIADPRO-BOLD';
+    src:url('../fonts/MYRIADPRO-BOLD.woff') format('woff'),
+        url('../fonts/MYRIADPRO-BOLD.woff2') format('woff2'),
+        url('../fonts/MYRIADPRO-BOLD.eot'),
+        url('../fonts/MYRIADPRO-BOLD.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MYRIADPRO-BOLD.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.shop_h1 {
+    font-size: 40px;
+    font-family: "OpenSans";
+    color: rgb(0, 104, 55);
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: left;
+    position: absolute;
+    left: auto;
+    top: auto;
+    padding-top: 25px;
+    width: 428px;
+    height: 30px;
+    z-index: 183;
+  }
+  .card {
+    border: none;
+  }
+  .Rectangle_1_copy {
+    background-color: rgb(0, 104, 55);
+    position: absolute;
+    left: auto;
+    top: auto;
+    margin: 30px;
+    width: 1064px;
+    height: 30px;
+    z-index: 184;
+  }
+  .shop_header {
+    height: 99px;
+  }
+  .shop {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .shop_div {
+    height: auto;
+  }
+  .shop_card {
+    width: 14rem;
+    font-family: 'MYRIADPRO-BOLD';
+  }
+
+  .card-img-top {
+    height: 233px;
+  }
+
+  .badge {
+    position: absolute;
+    top: auto;
+    right: -.5px;
+    padding: 15px 10px;
+    border-radius: 50%;
+    background: rgb(90, 90, 90);
+    color: white;
+  }
+
+  .shop_h2 {
+        font-size: 40px;
+        font-family: "OpenSans";
+        color: rgb(0, 104, 55);
+        font-weight: bold;
+        font-style: italic;
+        text-transform: uppercase;
+        line-height: 1;
+        text-align: left;
+        position: absolute;
+        left: auto;
+        top: auto;
+        width: 555px;
+        height: 30px;
+        z-index: 137;
+      }
+
+      .Rectangle_2_copy {
+        background-color: rgb(0, 104, 55);
+        position: absolute;
+        left: auto;
+        top: auto;
+        margin: 5px;
+        width: 940px;
+        height: 30px;
+        z-index: 136;
+      }
+
+
+      .slidimg img {
+        width: 100px;
+        height: 100px;
+      }
+  
+      
